@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 import os
-os.chdir(r'C:\Users\Sowjanya Narisetty\Desktop')
+os.chdir(r'C:\Users\Dharma Narisetty\Desktop')
 
 result = open("matplot.txt",'w')
 g = {'A+':10,'A':9,'B':8,'C':7,'D':6,'E':5,'F':0,'W':0}
