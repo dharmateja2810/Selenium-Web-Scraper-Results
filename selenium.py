@@ -4,7 +4,7 @@ import os
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 #variables
-os.chdir(r'C:\Users\Sowjanya Narisetty\Desktop')
+os.chdir(r'C:\Users\Dharma Narisetty\Desktop')
 driver = webdriver.Chrome()
 #file to save the data
 file = open("file.txt",'a')
